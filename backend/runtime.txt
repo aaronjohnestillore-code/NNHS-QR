@@ -1,0 +1,8 @@
+# NNHS Attendance System - Production Build Configuration
+
+[build]
+python-version = "3.11"
+
+[env]
+# Python environment variables
+PYTHONUNBUFFERED = "1"

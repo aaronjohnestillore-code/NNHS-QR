@@ -1,0 +1,6 @@
+# Frontend Build and Production Configuration
+
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
